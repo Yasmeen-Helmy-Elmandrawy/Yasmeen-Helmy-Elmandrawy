@@ -1,17 +1,21 @@
-<h1 align="center">Hi 👋, I'm Yasmeen Helmy</h1>
-<h3 align="center">Web Developer specialized in .NET Full-Stack.</h3>
+<h3 align="center">
+  Welcome to Yasmeen Helmy's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
-- 🔭 I’m currently working on **Ecommerce Website**
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=.NET%20Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p> 
 
-- 🌱 I’m currently learning **Design Pattern**
+- 🏢 I'm a Software Engineer .NET Full-Stack Web Developer.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Yasmeen-Helmy-Elmandrawy](https://github.com/Yasmeen-Helmy-Elmandrawy)
-
-- 💬 Ask me about **My projects**
+- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 
 - 📫 How to reach me **yasmeenhelmy2020@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1brRqsrsna0NH_yk2WOLIBVhZ8u_2qUpG/view?usp=sharing](https://drive.google.com/file/d/1brRqsrsna0NH_yk2WOLIBVhZ8u_2qUpG/view?usp=sharing)
+- 👨‍💻 All of my projects are available at [https://github.com/Yasmeen-Helmy-Elmandrawy](https://github.com/Yasmeen-Helmy-Elmandrawy)
+
+- 💬 Know about my experiences [https://drive.google.com/file/d/1brRqsrsna0NH_yk2WOLIBVhZ8u_2qUpG/view?usp=sharing](https://drive.google.com/file/d/1brRqsrsna0NH_yk2WOLIBVhZ8u_2qUpG/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
